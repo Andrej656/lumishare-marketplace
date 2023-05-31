@@ -1,0 +1,1 @@
+export { SignUpModalStepInvestorSignUp } from "./SignUpModalStepInvestorSignUp";

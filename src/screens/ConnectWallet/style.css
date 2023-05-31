@@ -1,0 +1,218 @@
+.connect-wallet {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.connect-wallet .group-51692-wrapper {
+  cursor: pointer;
+  height: 920px;
+  width: 441px;
+}
+
+.connect-wallet .group-51692 {
+  background-color: #ffffff;
+  box-shadow: -3px 0px 6px #00000029;
+  height: 920px;
+  left: 22px;
+  position: relative;
+  width: 419px;
+}
+
+.connect-wallet .text-wrapper-8 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.connect-wallet .p {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 62px;
+  width: 354px;
+}
+
+.connect-wallet .group-54983 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 60px;
+  left: 32px;
+  position: absolute;
+  top: 140px;
+  width: 355px;
+}
+
+.connect-wallet .overlap-2 {
+  border-radius: 20.38px;
+  height: 41px;
+  left: 13px;
+  position: absolute;
+  top: 10px;
+  width: 41px;
+}
+
+.connect-wallet .group-40070 {
+  background-color: #ffffff;
+  border-radius: 20.38px;
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.connect-wallet .overlap-group-5 {
+  height: 41px;
+  position: relative;
+}
+
+.connect-wallet .metamask-fox-svg {
+  height: 33px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 33px;
+}
+
+.connect-wallet .mask-group-109 {
+  height: 41px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.connect-wallet .metamask-fox-svg-wrapper {
+  background-color: #ffffff;
+  border-radius: 20.38px;
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.connect-wallet .metamask-fox-svg-2 {
+  height: 33px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 33px;
+}
+
+.connect-wallet .text-wrapper-9 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.connect-wallet .group-54984 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 60px;
+  left: 32px;
+  position: absolute;
+  top: 212px;
+  width: 355px;
+}
+
+.connect-wallet .group-3 {
+  background-color: #ffffff;
+  border-radius: 20.38px;
+  height: 41px;
+  left: 12px;
+  position: absolute;
+  top: 9px;
+  width: 41px;
+}
+
+.connect-wallet .overlap-group-6 {
+  height: 41px;
+  position: relative;
+}
+
+.connect-wallet .metamask-fox-svg-3 {
+  height: 33px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 33px;
+}
+
+.connect-wallet .mask-group-2 {
+  height: 41px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.connect-wallet .text-wrapper-10 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.connect-wallet .group-54985 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 60px;
+  left: 32px;
+  position: absolute;
+  top: 303px;
+  width: 355px;
+}
+
+.connect-wallet .show-more {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 142px;
+  letter-spacing: 0;
+  line-height: 7px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  white-space: nowrap;
+}

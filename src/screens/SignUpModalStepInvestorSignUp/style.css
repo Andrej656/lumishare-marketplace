@@ -1,0 +1,809 @@
+.sign-up-modal-step-investor-sign-up {
+  background-color: #231f2036;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-up-modal-step-investor-sign-up .sign-up-modal-step-2-investor-sign-up {
+  background-color: #231f2036;
+  cursor: pointer;
+  height: 920px;
+  width: 1920px;
+}
+
+.sign-up-modal-step-investor-sign-up .group-195 {
+  background-color: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0px 3px 6px #0000001a;
+  height: 672px;
+  left: 593px;
+  position: relative;
+  top: 124px;
+  width: 735px;
+}
+
+.sign-up-modal-step-investor-sign-up .h-1 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 144px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-55238 {
+  height: 63px;
+  left: 100px;
+  position: absolute;
+  top: 127px;
+  width: 536px;
+}
+
+.sign-up-modal-step-investor-sign-up .overlap-group-116 {
+  height: 63px;
+  position: relative;
+  width: 538px;
+}
+
+.sign-up-modal-step-investor-sign-up .line-1989 {
+  height: 1px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 493px;
+}
+
+.sign-up-modal-step-investor-sign-up .group-196 {
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.sign-up-modal-step-investor-sign-up .profile-type-2 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-197 {
+  background-color: #fac73f;
+  border-radius: 20px;
+  height: 40px;
+  left: 17px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-357 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 81px;
+  position: absolute;
+  top: -18px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-55232 {
+  height: 63px;
+  left: 486px;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-358 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-198 {
+  background-color: #fac73f;
+  border-radius: 20px;
+  height: 40px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-359 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 81px;
+  position: absolute;
+  text-align: center;
+  top: -18px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .scroll-group-37 {
+  height: 463px;
+  left: 100px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 209px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .group-55239 {
+  height: 1035px;
+  position: relative;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .group-55225 {
+  background-color: #34c77b;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 935px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-360 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 231px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-55219 {
+  height: 882px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .component-140-8 {
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .rectangle-17637 {
+  background-color: #fafcff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .full-name {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-55223 {
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 94px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .component-140-6 {
+  height: 74px;
+  left: 282px;
+  position: absolute;
+  top: 0;
+  width: 253px;
+}
+
+.sign-up-modal-step-investor-sign-up .rectangle-36 {
+  background-color: #fafcff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 253px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-361 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .component-140-7 {
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 253px;
+}
+
+.sign-up-modal-step-investor-sign-up .rectangle-37 {
+  background-color: #fafcff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 253px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-362 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-55227 {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 192px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .overlap-group-117 {
+  background-color: #fafcff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .group-199 {
+  height: 19px;
+  left: 503px;
+  position: absolute;
+  top: 17px;
+  width: 19px;
+}
+
+.sign-up-modal-step-investor-sign-up .union-3 {
+  height: 5px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 10px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-363 {
+  color: #c4c4c4;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-364 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -12px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-55228 {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 286px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .overlap-165 {
+  background-color: #fafcff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .group-200 {
+  height: 19px;
+  left: 503px;
+  position: absolute;
+  top: 17px;
+  width: 19px;
+}
+
+.sign-up-modal-step-investor-sign-up .union-4 {
+  height: 5px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 10px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-365 {
+  color: #c4c4c4;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-366 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -12px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .component-140-5 {
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 376px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .rectangle-38 {
+  background-color: #fafcff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .government-ID-number {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .component-140-4 {
+  height: 124px;
+  left: 0;
+  position: absolute;
+  top: 470px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .government-ID-picture {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-55224 {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .overlap-group-118 {
+  background-image: url(../../../static/img/rectangle-17637.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 8px;
+  height: 100px;
+  position: relative;
+}
+
+.sign-up-modal-step-investor-sign-up .iconly-light-outline-image-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 76px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 76px;
+}
+
+.sign-up-modal-step-investor-sign-up .iconly-light-outline-image {
+  background-image: url(../../../static/img/combined-shape-119-1x-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 27px;
+  position: relative;
+  top: 27px;
+  width: 20px;
+}
+
+.sign-up-modal-step-investor-sign-up .group-55221 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 40px;
+  left: 424px;
+  position: absolute;
+  top: 30px;
+  width: 91px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-367 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-55222 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 40px;
+  left: 369px;
+  position: absolute;
+  top: 30px;
+  width: 45px;
+}
+
+.sign-up-modal-step-investor-sign-up .iconly-light-outline-camera {
+  background-image: url(../../../static/img/combined-shape-122-1x-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 12px;
+  position: relative;
+  top: 11px;
+  width: 20px;
+}
+
+.sign-up-modal-step-investor-sign-up .component-140-3 {
+  height: 124px;
+  left: 0;
+  position: absolute;
+  top: 614px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-368 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-201 {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .overlap-group-119 {
+  background-image: url(../../../static/img/rectangle-17637.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 8px;
+  height: 100px;
+  position: relative;
+}
+
+.sign-up-modal-step-investor-sign-up .iconly-light-outline-image-2-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 76px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 76px;
+}
+
+.sign-up-modal-step-investor-sign-up .iconly-light-outline-image-2 {
+  background-image: url(../../../static/img/combined-shape-119-1x-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 27px;
+  position: relative;
+  top: 27px;
+  width: 20px;
+}
+
+.sign-up-modal-step-investor-sign-up .group-202 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 40px;
+  left: 424px;
+  position: absolute;
+  top: 30px;
+  width: 91px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-369 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .iconly-light-outline-camera-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 40px;
+  left: 369px;
+  position: absolute;
+  top: 30px;
+  width: 45px;
+}
+
+.sign-up-modal-step-investor-sign-up .iconly-light-outline-camera-2 {
+  background-image: url(../../../static/img/combined-shape-118.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 12px;
+  position: relative;
+  top: 11px;
+  width: 20px;
+}
+
+.sign-up-modal-step-investor-sign-up .component-140-2 {
+  height: 124px;
+  left: 0;
+  position: absolute;
+  top: 758px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-370 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-203 {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 535px;
+}
+
+.sign-up-modal-step-investor-sign-up .overlap-group-120 {
+  background-image: url(../../../static/img/rectangle-17637.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 8px;
+  height: 100px;
+  position: relative;
+}
+
+.sign-up-modal-step-investor-sign-up .overlap-166 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 76px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 76px;
+}
+
+.sign-up-modal-step-investor-sign-up .iconly-light-outline-image-3 {
+  background-image: url(../../../static/img/combined-shape-119-1x-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 27px;
+  position: relative;
+  top: 27px;
+  width: 20px;
+}
+
+.sign-up-modal-step-investor-sign-up .group-204 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 40px;
+  left: 424px;
+  position: absolute;
+  top: 30px;
+  width: 91px;
+}
+
+.sign-up-modal-step-investor-sign-up .text-wrapper-371 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-investor-sign-up .group-205 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 40px;
+  left: 369px;
+  position: absolute;
+  top: 30px;
+  width: 45px;
+}
+
+.sign-up-modal-step-investor-sign-up .iconly-light-outline-camera-3 {
+  background-image: url(../../../static/img/combined-shape-118.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 12px;
+  position: relative;
+  top: 11px;
+  width: 20px;
+}
+
+.sign-up-modal-step-investor-sign-up .iconly-light-outline-close-square-2 {
+  background-image: url(../../../static/img/combined-shape-124.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 29px;
+  left: 694px;
+  position: absolute;
+  top: 11px;
+  width: 29px;
+}

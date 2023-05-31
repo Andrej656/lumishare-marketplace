@@ -1,0 +1,574 @@
+.filter {
+  background-color: #2c3e5073;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.filter .overlap-group4-wrapper {
+  background-color: #2c3e5073;
+  cursor: pointer;
+  height: 812px;
+  width: 375px;
+}
+
+.filter .overlap-167 {
+  height: 684px;
+  position: relative;
+  top: 128px;
+}
+
+.filter .group-55102 {
+  background-color: #ffffff;
+  box-shadow: 0px -1px 5px #00000047;
+  height: 684px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.filter .indicator {
+  background-color: #454f63;
+  border-radius: 2px;
+  height: 3px;
+  left: 171px;
+  opacity: 0.15;
+  position: relative;
+  top: 6px;
+  width: 34px;
+}
+
+.filter .group-55110 {
+  height: 454px;
+  left: 20px;
+  position: absolute;
+  top: 82px;
+  width: 336px;
+}
+
+.filter .group-55105 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.filter .price {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 59px;
+  position: absolute;
+  top: -22px;
+  white-space: nowrap;
+}
+
+.filter .group-55103 {
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 338px;
+}
+
+.filter .overlap-168 {
+  height: 25px;
+  position: relative;
+}
+
+.filter .group-54878 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.filter .overlap-169 {
+  height: 25px;
+  position: relative;
+}
+
+.filter .path-44483 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 335px;
+}
+
+.filter .group-206 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.filter .overlap-group-121 {
+  height: 25px;
+  position: relative;
+}
+
+.filter .ellipse-2019 {
+  background-color: #34c77b;
+  border-radius: 12.5px;
+  height: 25px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.filter .path-283 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 36px;
+}
+
+.filter .text-wrapper-372 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.filter .text-wrapper-373 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 316px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.filter .group-55106 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 97px;
+  width: 336px;
+}
+
+.filter .group-54875 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.filter .text-wrapper-374 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 59px;
+  position: absolute;
+  top: -22px;
+  white-space: nowrap;
+}
+
+.filter .group-55104 {
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 338px;
+}
+
+.filter .overlap-170 {
+  height: 25px;
+  position: relative;
+}
+
+.filter .group-207 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.filter .overlap-171 {
+  height: 25px;
+  position: relative;
+}
+
+.filter .path-284 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 335px;
+}
+
+.filter .group-208 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.filter .overlap-group-122 {
+  height: 25px;
+  position: relative;
+}
+
+.filter .ellipse-61 {
+  background-color: #34c77b;
+  border-radius: 12.5px;
+  height: 25px;
+  left: 135px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.filter .path-285 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 148px;
+}
+
+.filter .text-wrapper-375 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.filter .text-wrapper-376 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 316px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.filter .group-55107 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 194px;
+  width: 336px;
+}
+
+.filter .group-209 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 130px;
+}
+
+.filter .text-wrapper-377 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 59px;
+  position: absolute;
+  top: -22px;
+  white-space: nowrap;
+}
+
+.filter .overlap-group2-wrapper {
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 338px;
+}
+
+.filter .overlap-172 {
+  height: 25px;
+  position: relative;
+}
+
+.filter .group-210 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.filter .overlap-173 {
+  height: 25px;
+  position: relative;
+}
+
+.filter .path-286 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 335px;
+}
+
+.filter .group-211 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.filter .overlap-group-123 {
+  height: 25px;
+  position: relative;
+}
+
+.filter .ellipse-62 {
+  background-color: #34c77b;
+  border-radius: 12.5px;
+  height: 25px;
+  left: 135px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.filter .path-287 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 148px;
+}
+
+.filter .text-wrapper-378 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.filter .text-wrapper-379 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 316px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.filter .group-55108 {
+  height: 78px;
+  left: 0;
+  position: absolute;
+  top: 291px;
+  width: 335px;
+}
+
+.filter .location {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 59px;
+  position: absolute;
+  top: -22px;
+  white-space: nowrap;
+}
+
+.filter .overlap-174 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 336px;
+}
+
+.filter .text-wrapper-380 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.filter .path-288 {
+  height: 9px;
+  left: 300px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 14px;
+}
+
+.filter .group-55109 {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 403px;
+  width: 335px;
+}
+
+.filter .group-54887 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 335px;
+}
+
+.filter .icon-star-86 {
+  height: 24px;
+  left: 309px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.filter .icon-star-87 {
+  height: 24px;
+  left: 232px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.filter .icon-star-88 {
+  height: 24px;
+  left: 155px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.filter .icon-star-89 {
+  height: 24px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.filter .icon-star-90 {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.filter .text-wrapper-381 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 59px;
+  position: absolute;
+  top: -22px;
+  white-space: nowrap;
+}
+
+.filter .component-59-5 {
+  background-color: #34c77b;
+  border-radius: 8px;
+  height: 45px;
+  left: 20px;
+  position: absolute;
+  top: 609px;
+  width: 335px;
+}
+
+.filter .text-wrapper-382 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 7px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.filter .text-wrapper-383 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+}

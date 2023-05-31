@@ -1,0 +1,286 @@
+.sign-up-modal-step-choose-profile-type {
+  background-color: #231f2036;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-up-modal-step-choose-profile-type .sign-up-modal-step-1-choose-profile-type {
+  background-color: #231f2036;
+  cursor: pointer;
+  height: 920px;
+  width: 1920px;
+}
+
+.sign-up-modal-step-choose-profile-type .group-55237 {
+  background-color: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0px 3px 6px #0000001a;
+  height: 672px;
+  left: 593px;
+  position: relative;
+  top: 124px;
+  width: 735px;
+}
+
+.sign-up-modal-step-choose-profile-type .let-s-create-your-account {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 144px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-choose-profile-type .text-wrapper-11 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 191px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+  width: 354px;
+}
+
+.sign-up-modal-step-choose-profile-type .already-a-member-login {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  left: 191px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 495px;
+  white-space: nowrap;
+  width: 354px;
+}
+
+.sign-up-modal-step-choose-profile-type .span {
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+}
+
+.sign-up-modal-step-choose-profile-type .text-wrapper-12 {
+  font-family: "Exo 2", Helvetica;
+  font-weight: 700;
+}
+
+.sign-up-modal-step-choose-profile-type .component-139-3 {
+  background-color: #fafcff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 60px;
+  left: 377px;
+  position: absolute;
+  top: 311px;
+  width: 258px;
+}
+
+.sign-up-modal-step-choose-profile-type .text-wrapper-13 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 97px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-choose-profile-type .component-139-4 {
+  background-color: #fafcff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 60px;
+  left: 100px;
+  position: absolute;
+  top: 311px;
+  width: 251px;
+}
+
+.sign-up-modal-step-choose-profile-type .text-wrapper-14 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-choose-profile-type .group-4 {
+  background-color: #34c77b;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  cursor: pointer;
+  height: 60px;
+  left: 100px;
+  position: absolute;
+  top: 425px;
+  width: 535px;
+}
+
+.sign-up-modal-step-choose-profile-type .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 246px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-choose-profile-type .group-55234 {
+  height: 63px;
+  left: 100px;
+  position: absolute;
+  top: 127px;
+  width: 536px;
+}
+
+.sign-up-modal-step-choose-profile-type .overlap-group-7 {
+  height: 63px;
+  position: relative;
+  width: 538px;
+}
+
+.sign-up-modal-step-choose-profile-type .line {
+  height: 1px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 493px;
+}
+
+.sign-up-modal-step-choose-profile-type .group-55231 {
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.sign-up-modal-step-choose-profile-type .profile-type {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-choose-profile-type .group-55229 {
+  background-color: #fac73f;
+  border-radius: 20px;
+  height: 40px;
+  left: 17px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.sign-up-modal-step-choose-profile-type .text-wrapper-16 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 81px;
+  position: absolute;
+  top: -18px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-choose-profile-type .group-55233 {
+  height: 63px;
+  left: 486px;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.sign-up-modal-step-choose-profile-type .text-wrapper-17 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  opacity: 0.5;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-choose-profile-type .group-55230 {
+  background-color: #fafcff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 20px;
+  height: 40px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.sign-up-modal-step-choose-profile-type .text-wrapper-18 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 81px;
+  opacity: 0.5;
+  position: absolute;
+  text-align: center;
+  top: -20px;
+  white-space: nowrap;
+}
+
+.sign-up-modal-step-choose-profile-type .iconly-light-outline-close-square {
+  background-image: url(../../../static/img/combined-shape-89.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 29px;
+  left: 694px;
+  position: absolute;
+  top: 11px;
+  width: 29px;
+}

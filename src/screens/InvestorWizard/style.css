@@ -1,0 +1,6925 @@
+.investor-wizard {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.investor-wizard .div-3 {
+  background-color: #ffffff;
+  height: 4531px;
+  position: relative;
+  width: 375px;
+}
+
+.investor-wizard .overlap-group14 {
+  height: 4366px;
+  left: 0;
+  position: absolute;
+  top: 76px;
+  width: 375px;
+}
+
+.investor-wizard .group-212 {
+  height: 156px;
+  left: 10px;
+  position: absolute;
+  top: 34px;
+  width: 355px;
+}
+
+.investor-wizard .overlap-group-124 {
+  height: 156px;
+  position: relative;
+}
+
+.investor-wizard .mask-group-3 {
+  height: 156px;
+  left: 199px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 156px;
+}
+
+.investor-wizard .group-213 {
+  height: 156px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 355px;
+}
+
+.investor-wizard .scroll-group-10 {
+  height: 88px;
+  left: 0;
+  overflow-x: scroll;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.investor-wizard .repeat-grid-15 {
+  height: 88px;
+  position: relative;
+  width: 2252px;
+}
+
+.investor-wizard .group-214 {
+  height: 86px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-215 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-125 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-63 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-289 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-384 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-216 {
+  height: 86px;
+  left: 83px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-217 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-126 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-64 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-290 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-385 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-218 {
+  height: 86px;
+  left: 166px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-219 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-127 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-65 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-291 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-386 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-220 {
+  height: 86px;
+  left: 249px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-221 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-128 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-66 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-292 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-387 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-222 {
+  height: 86px;
+  left: 332px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-223 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-129 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-67 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-293 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-388 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-224 {
+  height: 86px;
+  left: 415px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-225 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-130 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-68 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-294 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-389 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-226 {
+  height: 86px;
+  left: 498px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-227 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-131 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-69 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-295 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-390 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-228 {
+  height: 86px;
+  left: 581px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-229 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-132 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-70 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-296 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-391 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-230 {
+  height: 86px;
+  left: 664px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-231 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-133 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-71 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-297 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-392 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-232 {
+  height: 86px;
+  left: 747px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-233 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-134 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-72 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-298 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-393 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-234 {
+  height: 86px;
+  left: 830px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-235 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-135 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-73 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-299 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-394 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-236 {
+  height: 86px;
+  left: 913px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-237 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-136 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-74 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-300 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-395 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-238 {
+  height: 86px;
+  left: 996px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-239 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-137 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-75 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-301 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-396 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-240 {
+  height: 86px;
+  left: 1079px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-241 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-138 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-76 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-302 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-397 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-242 {
+  height: 86px;
+  left: 1162px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-243 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-139 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-77 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-303 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-398 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-244 {
+  height: 86px;
+  left: 1245px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-245 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-140 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-78 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-304 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-399 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-246 {
+  height: 86px;
+  left: 1328px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-247 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-141 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-79 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-305 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-400 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-248 {
+  height: 86px;
+  left: 1411px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-249 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-142 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-80 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-306 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-401 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-250 {
+  height: 86px;
+  left: 1494px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-251 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-143 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-81 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-307 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-402 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-252 {
+  height: 86px;
+  left: 1577px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-253 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-144 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-82 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-308 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-403 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-254 {
+  height: 86px;
+  left: 1660px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-255 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-145 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-83 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-309 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-404 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-256 {
+  height: 86px;
+  left: 1743px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-257 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-146 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-84 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-310 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-405 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-258 {
+  height: 86px;
+  left: 1826px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-259 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-147 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-85 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-311 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-406 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-260 {
+  height: 86px;
+  left: 1909px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-261 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-148 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-86 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-312 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-407 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-262 {
+  height: 86px;
+  left: 1992px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-263 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-149 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-87 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-313 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-408 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-264 {
+  height: 86px;
+  left: 2075px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-265 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-150 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-88 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-314 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-409 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-266 {
+  height: 86px;
+  left: 2158px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-267 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-151 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-89 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-315 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-410 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-268 {
+  height: 86px;
+  left: 2241px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .group-269 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .overlap-group-152 {
+  height: 67px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-90 {
+  border-radius: 29.16px;
+  height: 58px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 58px;
+}
+
+.investor-wizard .path-316 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.investor-wizard .text-wrapper-411 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-270 {
+  height: 25px;
+  left: 99px;
+  position: absolute;
+  top: 108px;
+  width: 178px;
+}
+
+.investor-wizard .group-271 {
+  cursor: pointer;
+  height: 25px;
+  left: 133px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .overlap-group-153 {
+  height: 25px;
+  position: relative;
+}
+
+.investor-wizard .rectangle-39 {
+  background-color: #34c77b;
+  border-radius: 12px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 44px;
+}
+
+.investor-wizard .ellipse-91 {
+  background-color: #ffffff;
+  border-radius: 12.5px;
+  box-shadow: 0px 2px 2px #454f6340;
+  height: 25px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 25px;
+}
+
+.investor-wizard .text-wrapper-412 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  top: -26px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-272 {
+  height: 4214px;
+  left: 10px;
+  position: absolute;
+  top: 151px;
+  width: 355px;
+}
+
+.investor-wizard .group-273 {
+  height: 548px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-175 {
+  height: 458px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 342px;
+}
+
+.investor-wizard .rectangle-23556 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 454px;
+  left: 22px;
+  position: absolute;
+  top: 4px;
+  width: 289px;
+}
+
+.investor-wizard .rectangle-23557 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 443px;
+  left: 6px;
+  position: absolute;
+  top: 4px;
+  width: 319px;
+}
+
+.investor-wizard .component-91-302 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 433px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-176 {
+  height: 27px;
+  left: 64px;
+  position: absolute;
+  top: 210px;
+  width: 174px;
+}
+
+.investor-wizard .component-64 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.investor-wizard .text-wrapper-413 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-414 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.investor-wizard .overlap-177 {
+  background-image: url(../../../static/img/agriculture-image-66.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-178 {
+  height: 38px;
+  left: 16px;
+  position: absolute;
+  top: 140px;
+  width: 174px;
+}
+
+.investor-wizard .text-wrapper-415 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-416 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.investor-wizard .group-274 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 156px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-179 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-91 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-92 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-417 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-93 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-94 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-95 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .share-23 {
+  background-color: #ffffffbd;
+  border-radius: 15px;
+  height: 30px;
+  left: 303px;
+  position: absolute;
+  top: 9px;
+  width: 30px;
+}
+
+.investor-wizard .icon-share-7 {
+  height: 12px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 10px;
+}
+
+.investor-wizard .group-275 {
+  height: 32px;
+  left: 15px;
+  position: absolute;
+  top: 266px;
+  width: 73px;
+}
+
+.investor-wizard .overlap-group-154 {
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 73px;
+}
+
+.investor-wizard .text-wrapper-418 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.investor-wizard .LUMI-17 {
+  height: 16px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.investor-wizard .text-wrapper-419 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -14px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-420 {
+  color: #34c77b;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: right;
+  top: 269px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-276 {
+  height: 30px;
+  left: 15px;
+  position: absolute;
+  top: 321px;
+  width: 312px;
+}
+
+.investor-wizard .group-277 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 312px;
+}
+
+.investor-wizard .overlap-group-155 {
+  height: 6px;
+  position: relative;
+}
+
+.investor-wizard .rectangle-40 {
+  background-color: #e5e8eb;
+  border-radius: 0px 4px 4px 0px;
+  height: 6px;
+  left: 56px;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.investor-wizard .rectangle-41 {
+  background-color: #34c77b;
+  border-radius: 4px 0px 0px 4px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 109px;
+}
+
+.investor-wizard .text-wrapper-421 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-422 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-278 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 216px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-180 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-96 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-97 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-423 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-98 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-99 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-100 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-424 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 300px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 252px;
+  white-space: nowrap;
+}
+
+.investor-wizard .overlap-181 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 374px;
+  width: 342px;
+}
+
+.investor-wizard .line-64 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .add-to-cart-33 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 70px;
+  position: absolute;
+  top: 0;
+  width: 156px;
+}
+
+.investor-wizard .iconly-light-outline-buy-17 {
+  background-image: url(../../../static/img/combined-shape-126.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 23px;
+  position: absolute;
+  top: 20px;
+  width: 20px;
+}
+
+.investor-wizard .add-to-cart-34 {
+  color: #0f1114;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.investor-wizard .buy-now-22 {
+  background-color: #ffffffcc;
+  height: 59px;
+  left: 226px;
+  position: absolute;
+  top: 0;
+  width: 116px;
+}
+
+.investor-wizard .text-wrapper-425 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.investor-wizard .line-65 {
+  height: 59px;
+  left: 226px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.investor-wizard .line-66 {
+  height: 59px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.investor-wizard .component-65 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.investor-wizard .sun-24 {
+  height: 23px;
+  left: 23px;
+  position: relative;
+  top: 18px;
+  width: 23px;
+}
+
+.investor-wizard .overlap-182 {
+  height: 23px;
+  position: relative;
+}
+
+.investor-wizard .overlap-group-156 {
+  height: 17px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.investor-wizard .path-317 {
+  height: 12px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.investor-wizard .path-318 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-319 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-320 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-321 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-322 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.investor-wizard .path-323 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 2px;
+}
+
+.investor-wizard .path-324 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .path-325 {
+  height: 2px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .group-279 {
+  background-image: url(../../../static/img/path-44454-100.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  left: 15px;
+  position: absolute;
+  top: 210px;
+  width: 40px;
+}
+
+.investor-wizard .ellipse-92 {
+  border-radius: 17.32px;
+  height: 35px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 35px;
+}
+
+.investor-wizard .text-wrapper-426 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  top: -32px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-55034 {
+  height: 45px;
+  left: 72px;
+  position: absolute;
+  top: 503px;
+  width: 190px;
+}
+
+.investor-wizard .group-54843 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .icon-metro-cancel-wrapper {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-metro-cancel {
+  height: 23px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.investor-wizard .group-54888 {
+  height: 45px;
+  left: 145px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .icon-weather-lightning-wrapper {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-weather-lightning-2 {
+  height: 22px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 17px;
+}
+
+.investor-wizard .group-280 {
+  height: 547px;
+  left: 12px;
+  position: absolute;
+  top: 596px;
+  width: 342px;
+}
+
+.investor-wizard .overlap-183 {
+  height: 457px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 342px;
+}
+
+.investor-wizard .rectangle-23558 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 454px;
+  left: 26px;
+  position: absolute;
+  top: 3px;
+  width: 289px;
+}
+
+.investor-wizard .rectangle-23559 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 443px;
+  left: 11px;
+  position: absolute;
+  top: 3px;
+  width: 319px;
+}
+
+.investor-wizard .component-91-298 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 433px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-184 {
+  height: 27px;
+  left: 64px;
+  position: absolute;
+  top: 210px;
+  width: 174px;
+}
+
+.investor-wizard .component-66 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.investor-wizard .text-wrapper-427 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-428 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.investor-wizard .overlap-185 {
+  background-image: url(../../../static/img/agriculture-image-65.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-186 {
+  height: 38px;
+  left: 16px;
+  position: absolute;
+  top: 140px;
+  width: 174px;
+}
+
+.investor-wizard .text-wrapper-429 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-430 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.investor-wizard .group-281 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 156px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-187 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-101 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-102 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-431 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-103 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-104 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-105 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .share-24 {
+  background-color: #ffffffbd;
+  border-radius: 15px;
+  height: 30px;
+  left: 303px;
+  position: absolute;
+  top: 9px;
+  width: 30px;
+}
+
+.investor-wizard .icon-share-8 {
+  height: 12px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 10px;
+}
+
+.investor-wizard .group-282 {
+  height: 32px;
+  left: 15px;
+  position: absolute;
+  top: 266px;
+  width: 73px;
+}
+
+.investor-wizard .overlap-group-157 {
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 73px;
+}
+
+.investor-wizard .text-wrapper-432 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.investor-wizard .LUMI-18 {
+  height: 16px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.investor-wizard .text-wrapper-433 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -14px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-434 {
+  color: #34c77b;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: right;
+  top: 269px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-283 {
+  height: 30px;
+  left: 15px;
+  position: absolute;
+  top: 321px;
+  width: 312px;
+}
+
+.investor-wizard .group-284 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 312px;
+}
+
+.investor-wizard .overlap-group-158 {
+  height: 6px;
+  position: relative;
+}
+
+.investor-wizard .rectangle-42 {
+  background-color: #e5e8eb;
+  border-radius: 0px 4px 4px 0px;
+  height: 6px;
+  left: 56px;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.investor-wizard .rectangle-43 {
+  background-color: #34c77b;
+  border-radius: 4px 0px 0px 4px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 109px;
+}
+
+.investor-wizard .text-wrapper-435 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-436 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-285 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 216px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-188 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-106 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-107 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-437 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-108 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-109 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-110 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-438 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 300px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 252px;
+  white-space: nowrap;
+}
+
+.investor-wizard .overlap-189 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 374px;
+  width: 342px;
+}
+
+.investor-wizard .line-67 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .add-to-cart-35 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 70px;
+  position: absolute;
+  top: 0;
+  width: 156px;
+}
+
+.investor-wizard .iconly-light-outline-buy-18 {
+  background-image: url(../../../static/img/combined-shape-126.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 23px;
+  position: absolute;
+  top: 20px;
+  width: 20px;
+}
+
+.investor-wizard .add-to-cart-36 {
+  color: #0f1114;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.investor-wizard .buy-now-23 {
+  background-color: #ffffffcc;
+  height: 59px;
+  left: 226px;
+  position: absolute;
+  top: 0;
+  width: 116px;
+}
+
+.investor-wizard .text-wrapper-439 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.investor-wizard .line-68 {
+  height: 59px;
+  left: 226px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.investor-wizard .line-69 {
+  height: 59px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.investor-wizard .component-67 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.investor-wizard .sun-25 {
+  height: 23px;
+  left: 23px;
+  position: relative;
+  top: 18px;
+  width: 23px;
+}
+
+.investor-wizard .overlap-190 {
+  height: 23px;
+  position: relative;
+}
+
+.investor-wizard .overlap-group-159 {
+  height: 17px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.investor-wizard .path-326 {
+  height: 12px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.investor-wizard .path-327 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-328 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-329 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-330 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-331 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.investor-wizard .path-332 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 2px;
+}
+
+.investor-wizard .path-333 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .path-334 {
+  height: 2px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .group-286 {
+  background-image: url(../../../static/img/path-44454-100.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  left: 15px;
+  position: absolute;
+  top: 210px;
+  width: 40px;
+}
+
+.investor-wizard .ellipse-93 {
+  border-radius: 17.32px;
+  height: 35px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 35px;
+}
+
+.investor-wizard .group-55035 {
+  height: 45px;
+  left: 76px;
+  position: absolute;
+  top: 502px;
+  width: 190px;
+}
+
+.investor-wizard .group-287 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .overlap-group-160 {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-metro-cancel-2 {
+  height: 23px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.investor-wizard .group-288 {
+  height: 45px;
+  left: 145px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .overlap-191 {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-weather-lightning-3 {
+  height: 22px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 17px;
+}
+
+.investor-wizard .text-wrapper-440 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  top: -32px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-289 {
+  height: 548px;
+  left: 13px;
+  position: absolute;
+  top: 1191px;
+  width: 342px;
+}
+
+.investor-wizard .overlap-192 {
+  height: 458px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 342px;
+}
+
+.investor-wizard .rectangle-23560 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 454px;
+  left: 25px;
+  position: absolute;
+  top: 4px;
+  width: 289px;
+}
+
+.investor-wizard .rectangle-23561 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 443px;
+  left: 10px;
+  position: absolute;
+  top: 4px;
+  width: 319px;
+}
+
+.investor-wizard .component-91-327 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 433px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-193 {
+  height: 303px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .component-68 {
+  height: 19px;
+  left: 54px;
+  position: absolute;
+  top: 210px;
+  width: 134px;
+}
+
+.investor-wizard .text-wrapper-441 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.investor-wizard .agriculture-image-9 {
+  height: 303px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .group-290 {
+  background-image: url(../../../static/img/path-44489-9.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 299px;
+  width: 342px;
+}
+
+.investor-wizard .group-291 {
+  background-image: url(../../../static/img/path-44484-17.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  width: 107px;
+}
+
+.investor-wizard .text-wrapper-442 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 238px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-443 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 19px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 257px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.investor-wizard .group-292 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 254px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-194 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-111 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-112 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-444 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-113 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-114 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-115 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .share-25 {
+  background-color: #ffffffbd;
+  border-radius: 15px;
+  height: 30px;
+  left: 302px;
+  position: absolute;
+  top: 9px;
+  width: 30px;
+}
+
+.investor-wizard .icon-share-9 {
+  height: 12px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 10px;
+}
+
+.investor-wizard .group-293 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 322px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-group-161 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-116 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-117 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-445 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-118 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-119 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-120 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .overlap-195 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 374px;
+  width: 342px;
+}
+
+.investor-wizard .line-70 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .line-71 {
+  height: 59px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.investor-wizard .component-69 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.investor-wizard .sun-26 {
+  height: 23px;
+  left: 23px;
+  position: relative;
+  top: 18px;
+  width: 23px;
+}
+
+.investor-wizard .overlap-196 {
+  height: 23px;
+  position: relative;
+}
+
+.investor-wizard .overlap-group-162 {
+  height: 17px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.investor-wizard .path-335 {
+  height: 12px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.investor-wizard .path-336 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-337 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-338 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-339 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-340 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.investor-wizard .path-341 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 2px;
+}
+
+.investor-wizard .path-342 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .path-343 {
+  height: 2px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .text-wrapper-446 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 308px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-447 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 328px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-294 {
+  height: 40px;
+  left: 15px;
+  position: absolute;
+  top: 315px;
+  width: 40px;
+}
+
+.investor-wizard .overlap-197 {
+  height: 40px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-94 {
+  border-radius: 17.32px;
+  height: 35px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 35px;
+}
+
+.investor-wizard .path-344 {
+  height: 40px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.investor-wizard .group-295 {
+  height: 19px;
+  left: 96px;
+  position: absolute;
+  top: 395px;
+  width: 231px;
+}
+
+.investor-wizard .iconly-light-outline-volume-down-5 {
+  background-image: url(../../../static/img/combined-shape-127.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.investor-wizard .text-wrapper-448 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -10px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-awesome-chromecast-5 {
+  height: 17px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 21px;
+}
+
+.investor-wizard .group-296 {
+  height: 19px;
+  left: 213px;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.investor-wizard .path-345 {
+  height: 5px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.investor-wizard .path-346 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 5px;
+}
+
+.investor-wizard .path-347 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.investor-wizard .path-348 {
+  height: 5px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 5px;
+}
+
+.investor-wizard .group-55036 {
+  height: 45px;
+  left: 75px;
+  position: absolute;
+  top: 503px;
+  width: 190px;
+}
+
+.investor-wizard .group-297 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .overlap-group-163 {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-metro-cancel-3 {
+  height: 23px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.investor-wizard .group-298 {
+  height: 45px;
+  left: 145px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .overlap-198 {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-weather-lightning-4 {
+  height: 22px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 17px;
+}
+
+.investor-wizard .text-wrapper-449 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  top: -32px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-299 {
+  background-image: url(../../../static/img/mask-group-202-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 1783px;
+  width: 355px;
+}
+
+.investor-wizard .group-300 {
+  height: 546px;
+  left: 12px;
+  position: absolute;
+  top: 1900px;
+  width: 342px;
+}
+
+.investor-wizard .overlap-group10 {
+  height: 456px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 342px;
+}
+
+.investor-wizard .rectangle-23562 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 454px;
+  left: 21px;
+  position: absolute;
+  top: 2px;
+  width: 289px;
+}
+
+.investor-wizard .rectangle-23563 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 443px;
+  left: 6px;
+  position: absolute;
+  top: 2px;
+  width: 319px;
+}
+
+.investor-wizard .component-91-289 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 433px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-199 {
+  height: 27px;
+  left: 64px;
+  position: absolute;
+  top: 210px;
+  width: 174px;
+}
+
+.investor-wizard .component-70 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.investor-wizard .text-wrapper-450 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-451 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.investor-wizard .overlap-200 {
+  background-image: url(../../../static/img/agriculture-image-63.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-201 {
+  height: 38px;
+  left: 15px;
+  position: absolute;
+  top: 140px;
+  width: 174px;
+}
+
+.investor-wizard .text-wrapper-452 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-453 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.investor-wizard .group-301 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 156px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-202 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-121 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-122 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-454 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-123 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-124 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-125 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .share-26 {
+  background-color: #ffffffbd;
+  border-radius: 15px;
+  height: 30px;
+  left: 303px;
+  position: absolute;
+  top: 9px;
+  width: 30px;
+}
+
+.investor-wizard .icon-share-10 {
+  height: 12px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 10px;
+}
+
+.investor-wizard .group-302 {
+  height: 32px;
+  left: 15px;
+  position: absolute;
+  top: 266px;
+  width: 73px;
+}
+
+.investor-wizard .overlap-group-164 {
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 73px;
+}
+
+.investor-wizard .text-wrapper-455 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.investor-wizard .LUMI-19 {
+  height: 16px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.investor-wizard .text-wrapper-456 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -14px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-457 {
+  color: #34c77b;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: right;
+  top: 269px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-303 {
+  height: 30px;
+  left: 15px;
+  position: absolute;
+  top: 321px;
+  width: 312px;
+}
+
+.investor-wizard .group-304 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 312px;
+}
+
+.investor-wizard .overlap-group-165 {
+  height: 6px;
+  position: relative;
+}
+
+.investor-wizard .rectangle-44 {
+  background-color: #e5e8eb;
+  border-radius: 0px 4px 4px 0px;
+  height: 6px;
+  left: 56px;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.investor-wizard .rectangle-45 {
+  background-color: #34c77b;
+  border-radius: 4px 0px 0px 4px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 109px;
+}
+
+.investor-wizard .text-wrapper-458 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-459 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-305 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 216px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-203 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-126 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-127 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-460 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-128 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-129 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-130 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-461 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 300px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 252px;
+  white-space: nowrap;
+}
+
+.investor-wizard .overlap-204 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 374px;
+  width: 342px;
+}
+
+.investor-wizard .line-72 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .add-to-cart-37 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 70px;
+  position: absolute;
+  top: 0;
+  width: 156px;
+}
+
+.investor-wizard .iconly-light-outline-buy-19 {
+  background-image: url(../../../static/img/combined-shape-126.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 23px;
+  position: absolute;
+  top: 20px;
+  width: 20px;
+}
+
+.investor-wizard .add-to-cart-38 {
+  color: #0f1114;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.investor-wizard .buy-now-24 {
+  background-color: #ffffffcc;
+  height: 59px;
+  left: 226px;
+  position: absolute;
+  top: 0;
+  width: 116px;
+}
+
+.investor-wizard .text-wrapper-462 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.investor-wizard .line-73 {
+  height: 59px;
+  left: 226px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.investor-wizard .line-74 {
+  height: 59px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.investor-wizard .component-71 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.investor-wizard .sun-27 {
+  height: 23px;
+  left: 23px;
+  position: relative;
+  top: 18px;
+  width: 23px;
+}
+
+.investor-wizard .overlap-205 {
+  height: 23px;
+  position: relative;
+}
+
+.investor-wizard .overlap-group-166 {
+  height: 17px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.investor-wizard .path-349 {
+  height: 12px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.investor-wizard .path-350 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-351 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-352 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-353 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-354 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.investor-wizard .path-355 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 2px;
+}
+
+.investor-wizard .path-356 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .path-357 {
+  height: 2px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .group-306 {
+  background-image: url(../../../static/img/path-44454-100.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  left: 15px;
+  position: absolute;
+  top: 210px;
+  width: 40px;
+}
+
+.investor-wizard .ellipse-95 {
+  border-radius: 17.32px;
+  height: 35px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 35px;
+}
+
+.investor-wizard .group-55037 {
+  height: 45px;
+  left: 71px;
+  position: absolute;
+  top: 501px;
+  width: 190px;
+}
+
+.investor-wizard .group-307 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .overlap-group-167 {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-metro-cancel-4 {
+  height: 23px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.investor-wizard .group-308 {
+  height: 45px;
+  left: 145px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .overlap-206 {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-weather-lightning-5 {
+  height: 22px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 17px;
+}
+
+.investor-wizard .text-wrapper-463 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  top: -32px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-309 {
+  height: 547px;
+  left: 12px;
+  position: absolute;
+  top: 2494px;
+  width: 342px;
+}
+
+.investor-wizard .overlap-group11 {
+  height: 457px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 342px;
+}
+
+.investor-wizard .rectangle-23564 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 454px;
+  left: 26px;
+  position: absolute;
+  top: 3px;
+  width: 289px;
+}
+
+.investor-wizard .rectangle-23565 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 443px;
+  left: 11px;
+  position: absolute;
+  top: 3px;
+  width: 319px;
+}
+
+.investor-wizard .component-91-285 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 433px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-207 {
+  height: 27px;
+  left: 64px;
+  position: absolute;
+  top: 210px;
+  width: 174px;
+}
+
+.investor-wizard .component-72 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.investor-wizard .text-wrapper-464 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-465 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.investor-wizard .overlap-208 {
+  background-image: url(../../../static/img/agriculture-image-62.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-209 {
+  height: 38px;
+  left: 16px;
+  position: absolute;
+  top: 140px;
+  width: 174px;
+}
+
+.investor-wizard .text-wrapper-466 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-467 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.investor-wizard .group-310 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 156px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-210 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-131 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-132 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-468 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-133 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-134 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-135 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .share-27 {
+  background-color: #ffffffbd;
+  border-radius: 15px;
+  height: 30px;
+  left: 303px;
+  position: absolute;
+  top: 9px;
+  width: 30px;
+}
+
+.investor-wizard .icon-share-11 {
+  height: 12px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 10px;
+}
+
+.investor-wizard .group-311 {
+  height: 32px;
+  left: 15px;
+  position: absolute;
+  top: 266px;
+  width: 73px;
+}
+
+.investor-wizard .overlap-group-168 {
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 73px;
+}
+
+.investor-wizard .text-wrapper-469 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.investor-wizard .LUMI-20 {
+  height: 16px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.investor-wizard .text-wrapper-470 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -14px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-471 {
+  color: #34c77b;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: right;
+  top: 269px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-312 {
+  height: 30px;
+  left: 15px;
+  position: absolute;
+  top: 321px;
+  width: 312px;
+}
+
+.investor-wizard .group-313 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 312px;
+}
+
+.investor-wizard .overlap-group-169 {
+  height: 6px;
+  position: relative;
+}
+
+.investor-wizard .rectangle-46 {
+  background-color: #e5e8eb;
+  border-radius: 0px 4px 4px 0px;
+  height: 6px;
+  left: 56px;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.investor-wizard .rectangle-47 {
+  background-color: #34c77b;
+  border-radius: 4px 0px 0px 4px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 109px;
+}
+
+.investor-wizard .text-wrapper-472 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-473 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-314 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 216px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-211 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-136 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-137 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-474 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-138 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-139 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-140 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-475 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 300px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 252px;
+  white-space: nowrap;
+}
+
+.investor-wizard .overlap-212 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 374px;
+  width: 342px;
+}
+
+.investor-wizard .line-75 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .add-to-cart-39 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 70px;
+  position: absolute;
+  top: 0;
+  width: 156px;
+}
+
+.investor-wizard .iconly-light-outline-buy-20 {
+  background-image: url(../../../static/img/combined-shape-125.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 23px;
+  position: absolute;
+  top: 20px;
+  width: 20px;
+}
+
+.investor-wizard .add-to-cart-40 {
+  color: #0f1114;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.investor-wizard .buy-now-25 {
+  background-color: #ffffffcc;
+  height: 59px;
+  left: 226px;
+  position: absolute;
+  top: 0;
+  width: 116px;
+}
+
+.investor-wizard .text-wrapper-476 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.investor-wizard .line-76 {
+  height: 59px;
+  left: 226px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.investor-wizard .line-77 {
+  height: 59px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.investor-wizard .component-73 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.investor-wizard .sun-28 {
+  height: 23px;
+  left: 23px;
+  position: relative;
+  top: 18px;
+  width: 23px;
+}
+
+.investor-wizard .overlap-213 {
+  height: 23px;
+  position: relative;
+}
+
+.investor-wizard .overlap-group-170 {
+  height: 17px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.investor-wizard .path-358 {
+  height: 12px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.investor-wizard .path-359 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-360 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-361 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-362 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-363 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.investor-wizard .path-364 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 2px;
+}
+
+.investor-wizard .path-365 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .path-366 {
+  height: 2px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .group-315 {
+  background-image: url(../../../static/img/path-44454-100.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  left: 15px;
+  position: absolute;
+  top: 210px;
+  width: 40px;
+}
+
+.investor-wizard .ellipse-96 {
+  border-radius: 17.32px;
+  height: 35px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 35px;
+}
+
+.investor-wizard .group-55038 {
+  height: 45px;
+  left: 76px;
+  position: absolute;
+  top: 502px;
+  width: 190px;
+}
+
+.investor-wizard .group-316 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .overlap-group-171 {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-metro-cancel-5 {
+  height: 23px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.investor-wizard .group-317 {
+  height: 45px;
+  left: 145px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .overlap-214 {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-weather-lightning-6 {
+  height: 22px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 17px;
+}
+
+.investor-wizard .text-wrapper-477 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  top: -32px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-318 {
+  height: 546px;
+  left: 12px;
+  position: absolute;
+  top: 3089px;
+  width: 342px;
+}
+
+.investor-wizard .overlap-group12 {
+  height: 456px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 342px;
+}
+
+.investor-wizard .rectangle-23566 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 454px;
+  left: 26px;
+  position: absolute;
+  top: 2px;
+  width: 289px;
+}
+
+.investor-wizard .rectangle-23567 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 443px;
+  left: 12px;
+  position: absolute;
+  top: 2px;
+  width: 319px;
+}
+
+.investor-wizard .component-91-280 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 433px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-215 {
+  height: 27px;
+  left: 64px;
+  position: absolute;
+  top: 210px;
+  width: 174px;
+}
+
+.investor-wizard .component-74 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.investor-wizard .text-wrapper-478 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-479 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.investor-wizard .group-319 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 216px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-group-172 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-141 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-142 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-480 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-143 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-144 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-145 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .overlap-216 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 374px;
+  width: 342px;
+}
+
+.investor-wizard .line-78 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .buy-now-26 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 70px;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.investor-wizard .text-wrapper-481 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 97px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.investor-wizard .line-79 {
+  height: 59px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.investor-wizard .component-75 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.investor-wizard .sun-29 {
+  height: 23px;
+  left: 23px;
+  position: relative;
+  top: 18px;
+  width: 23px;
+}
+
+.investor-wizard .overlap-217 {
+  height: 23px;
+  position: relative;
+}
+
+.investor-wizard .overlap-group-173 {
+  height: 17px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.investor-wizard .path-367 {
+  height: 12px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.investor-wizard .path-368 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-369 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-370 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.investor-wizard .path-371 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.investor-wizard .path-372 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.investor-wizard .path-373 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 2px;
+}
+
+.investor-wizard .path-374 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .path-375 {
+  height: 2px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.investor-wizard .overlap-218 {
+  background-image: url(../../../static/img/mask-group-197-8.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .overlap-219 {
+  background: linear-gradient(180deg, rgba(35, 31, 32, 0) 0%, #231f20 100%);
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 100px;
+  width: 342px;
+}
+
+.investor-wizard .overlap-group-174 {
+  height: 38px;
+  left: 16px;
+  position: absolute;
+  top: 40px;
+  width: 174px;
+}
+
+.investor-wizard .text-wrapper-482 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-483 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.investor-wizard .group-320 {
+  height: 32px;
+  left: 252px;
+  position: absolute;
+  top: 56px;
+  width: 78px;
+}
+
+.investor-wizard .overlap-220 {
+  height: 20px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.investor-wizard .icon-star-146 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-147 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-484 {
+  color: #ffffff;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.investor-wizard .icon-star-148 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-149 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-150 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .share-28 {
+  background-color: #ffffffbd;
+  border-radius: 15px;
+  height: 30px;
+  left: 303px;
+  position: absolute;
+  top: 9px;
+  width: 30px;
+}
+
+.investor-wizard .icon-share-12 {
+  height: 12px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 10px;
+}
+
+.investor-wizard .overlap-221 {
+  height: 87px;
+  left: 15px;
+  position: absolute;
+  top: 277px;
+  width: 314px;
+}
+
+.investor-wizard
+  .eius-sunt-voluptate-quo-esse-magnam-rem-nulla-dolorem-optio-ratione-quaerat-qui-accusantium-sunt-fugit-quas-sed-dolorem-sint-nostrum-non-eos-nisi-nihil-voluptate-natus-ut-unde-dolor-nesciunt-blanditiis-et-cum-sed-iste-inventore-reprehenderit-incidunt-i-6 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 86px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  width: 314px;
+}
+
+.investor-wizard .rectangle-48 {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.56) -57.67%, #ffffff 100%);
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 62px;
+  width: 312px;
+}
+
+.investor-wizard .text-wrapper-485 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 251px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-321 {
+  height: 40px;
+  left: 15px;
+  position: absolute;
+  top: 209px;
+  width: 40px;
+}
+
+.investor-wizard .overlap-222 {
+  height: 40px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-97 {
+  border-radius: 17.32px;
+  height: 35px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 35px;
+}
+
+.investor-wizard .path-376 {
+  height: 40px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.investor-wizard .group-55039 {
+  height: 45px;
+  left: 76px;
+  position: absolute;
+  top: 501px;
+  width: 190px;
+}
+
+.investor-wizard .group-322 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .overlap-group-175 {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-metro-cancel-6 {
+  height: 23px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.investor-wizard .group-323 {
+  height: 45px;
+  left: 145px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.investor-wizard .overlap-223 {
+  background-image: url(../../../static/img/subtraction-1-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: -9px;
+  position: relative;
+  top: -6px;
+  width: 63px;
+}
+
+.investor-wizard .icon-weather-lightning-7 {
+  height: 22px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 17px;
+}
+
+.investor-wizard .text-wrapper-486 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 144px;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  top: -32px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-324 {
+  height: 532px;
+  left: 0;
+  position: absolute;
+  top: 3683px;
+  width: 342px;
+}
+
+.investor-wizard .text-wrapper-487 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  top: -32px;
+  white-space: nowrap;
+}
+
+.investor-wizard .component-124-2 {
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 31px;
+  width: 342px;
+}
+
+.investor-wizard .text-wrapper-488 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  top: -29px;
+  white-space: nowrap;
+}
+
+.investor-wizard .text-wrapper-489 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  top: -29px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-325 {
+  height: 464px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  width: 342px;
+}
+
+.investor-wizard .component-76 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  cursor: pointer;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.investor-wizard .text-wrapper-490 {
+  color: #707070;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-326 {
+  height: 36px;
+  left: 105px;
+  position: absolute;
+  top: 24px;
+  width: 109px;
+}
+
+.investor-wizard .text-wrapper-491 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-327 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 75px;
+}
+
+.investor-wizard .icon-star-151 {
+  height: 11px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-152 {
+  height: 11px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-153 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-154 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-155 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-492 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-328 {
+  height: 44px;
+  left: 296px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 36px;
+}
+
+.investor-wizard .group-329 {
+  height: 60px;
+  left: 26px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+
+.investor-wizard .overlap-group-176 {
+  height: 60px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-98 {
+  border-radius: 26.61px;
+  height: 53px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 53px;
+}
+
+.investor-wizard .path-377 {
+  height: 60px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.investor-wizard .component-77 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 342px;
+}
+
+.investor-wizard .group-330 {
+  height: 60px;
+  left: 26px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+
+.investor-wizard .overlap-group-177 {
+  height: 60px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-99 {
+  border-radius: 26.61px;
+  height: 53px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 53px;
+}
+
+.investor-wizard .path-378 {
+  height: 60px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.investor-wizard .text-wrapper-493 {
+  color: #707070;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-331 {
+  height: 44px;
+  left: 105px;
+  position: absolute;
+  top: 18px;
+  width: 227px;
+}
+
+.investor-wizard .text-wrapper-494 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-332 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 75px;
+}
+
+.investor-wizard .icon-star-156 {
+  height: 11px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-157 {
+  height: 11px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-158 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-159 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-160 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-495 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-333 {
+  background-image: url(../../../static/img/group-54812-47.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 44px;
+  left: 191px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.investor-wizard .component-78 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 192px;
+  width: 342px;
+}
+
+.investor-wizard .group-334 {
+  height: 60px;
+  left: 26px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+
+.investor-wizard .overlap-group-178 {
+  height: 60px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-100 {
+  border-radius: 26.61px;
+  height: 53px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 53px;
+}
+
+.investor-wizard .path-379 {
+  height: 60px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.investor-wizard .text-wrapper-496 {
+  color: #707070;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-335 {
+  height: 36px;
+  left: 105px;
+  position: absolute;
+  top: 24px;
+  width: 109px;
+}
+
+.investor-wizard .text-wrapper-497 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-336 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 75px;
+}
+
+.investor-wizard .icon-star-161 {
+  height: 11px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-162 {
+  height: 11px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-163 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-164 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-165 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-498 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-337 {
+  background-image: url(../../../static/img/group-54812-46.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 44px;
+  left: 296px;
+  position: absolute;
+  top: 18px;
+  width: 36px;
+}
+
+.investor-wizard .component-79 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 288px;
+  width: 342px;
+}
+
+.investor-wizard .group-338 {
+  height: 60px;
+  left: 26px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+
+.investor-wizard .overlap-group-179 {
+  height: 60px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-101 {
+  border-radius: 26.61px;
+  height: 53px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 53px;
+}
+
+.investor-wizard .path-380 {
+  height: 60px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.investor-wizard .text-wrapper-499 {
+  color: #707070;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-339 {
+  height: 36px;
+  left: 105px;
+  position: absolute;
+  top: 24px;
+  width: 109px;
+}
+
+.investor-wizard .text-wrapper-500 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-340 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 75px;
+}
+
+.investor-wizard .icon-star-166 {
+  height: 11px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-167 {
+  height: 11px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-168 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-169 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-170 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-501 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.investor-wizard .component-80 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px #00000014;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 384px;
+  width: 342px;
+}
+
+.investor-wizard .text-wrapper-502 {
+  color: #707070;
+  font-family: "Exo 2", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-341 {
+  height: 36px;
+  left: 105px;
+  position: absolute;
+  top: 24px;
+  width: 109px;
+}
+
+.investor-wizard .text-wrapper-503 {
+  color: #060707;
+  font-family: "Exo 2", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -13px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-342 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 75px;
+}
+
+.investor-wizard .icon-star-171 {
+  height: 11px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-172 {
+  height: 11px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-173 {
+  height: 11px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-174 {
+  height: 11px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .icon-star-175 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.investor-wizard .text-wrapper-504 {
+  color: #8f979e;
+  font-family: "Exo 2", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.investor-wizard .group-343 {
+  height: 60px;
+  left: 26px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+
+.investor-wizard .overlap-group-180 {
+  height: 60px;
+  position: relative;
+}
+
+.investor-wizard .ellipse-102 {
+  border-radius: 26.61px;
+  height: 53px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 53px;
+}
+
+.investor-wizard .path-381 {
+  height: 60px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.investor-wizard .component-130-2 {
+  cursor: pointer;
+  height: 35px;
+  left: 330px;
+  position: absolute;
+  top: 102px;
+  width: 35px;
+}
+
+.investor-wizard .overlap-group13 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e5e8eb;
+  border-radius: 8px;
+  height: 36px;
+  width: 36px;
+}
+
+.investor-wizard .group-344 {
+  background-image: url(../../../static/img/icon-material-filter-list-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 9px;
+  position: relative;
+  top: 12px;
+  width: 17px;
+}
+
+.investor-wizard .group-55010-wrapper {
+  background-color: #ffffff;
+  box-shadow: 0px 1px 2px #00000024;
+  height: 60px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 375px;
+}
+
+.investor-wizard .group-345 {
+  height: 41px;
+  left: 103px;
+  position: relative;
+  top: 10px;
+  width: 170px;
+}
+
+.investor-wizard .overlap-group-181 {
+  height: 41px;
+  position: relative;
+}
+
+.investor-wizard .group-53428-wrapper {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.investor-wizard .group-53427-wrapper {
+  height: 41px;
+  overflow: hidden;
+}
+
+.investor-wizard .group-346 {
+  background-image: url(../../../static/img/image-19.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 42px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 63px;
+}
+
+.investor-wizard .group-347 {
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 13px;
+  width: 156px;
+}
+
+.investor-wizard .path-382 {
+  height: 15px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.investor-wizard .path-383 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 20px;
+}
+
+.investor-wizard .component-118-14 {
+  background-color: #ffffff;
+  box-shadow: 0px -1px 2px #00000024;
+  height: 60px;
+  left: 0;
+  position: fixed;
+  top: 752px;
+  width: 375px;
+}
+
+.investor-wizard .icon-user-2 {
+  height: 30px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 30px;
+}
+
+.investor-wizard .menu-icon-2 {
+  cursor: pointer;
+  height: 15px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 19px;
+}
+
+.investor-wizard .home-2 {
+  background-image: url(../../../static/img/fill-1-1-1x-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 20px;
+  left: 333px;
+  position: absolute;
+  top: 20px;
+  width: 19px;
+}
+
+.investor-wizard .iconly-light-outline-search-2 {
+  background-image: url(../../../static/img/combined-shape-131.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 185px;
+  position: absolute;
+  top: 21px;
+  width: 18px;
+}
+
+.investor-wizard .icon-weather-lightning-8 {
+  height: 21px;
+  left: 260px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 16px;
+}
